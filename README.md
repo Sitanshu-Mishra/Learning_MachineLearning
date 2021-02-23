@@ -22,9 +22,13 @@ ML Basic Steps:
 - Depending on the scenario, further tuning can be done
 - Predict the values.
 #### Notes: train-test-split can be used before using cross_val_score, as it gives one set of testing data to final check on our model prediction before using unknown data for prediction.
-### Jupyter Notebook: Kaggle Tabular Playground Series Jan2021.ipynb
+### Jupyter Notebook: Kaggle Tabular Playground Series Jan-2021.ipynb
 - Contains example of Regression Algorithms and its hyper-params tuning using Grid Search CV
 - Data Set is from Kaggle Competition: Kaggle Tabular Playground Series Jan2021
 - Used LightGBM model to predict and final LeaderBoard score is in top 41%
-
+### Jupyter Notebook: Kaggle Tabular Playground Series Feb-2021.ipynb
+- This is a competition held on Kaggle on Feb 2021
+- Data set is from Kaggle Competition: Kaggle Tabular Playground Series Feb2021
+- Used Catboost (Categorical Boost) algorithm to solve Machine Learning problem
+- Current Kaggle Leader board score is in top 36%, Need to improve :)
 
