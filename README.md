@@ -30,5 +30,5 @@ ML Basic Steps:
 - This is a competition held on Kaggle on Feb 2021
 - Data set is from Kaggle Competition: Kaggle Tabular Playground Series Feb2021
 - Used Catboost (Categorical Boost) algorithm to solve Machine Learning problem
-- Current Kaggle Leader board score is in top 36%, Need to improve :)
+- Current Kaggle Leader board score is in top 37%.
 
