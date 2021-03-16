@@ -19,6 +19,7 @@ ML Basic Steps:
 ### Machine Learning Model Prediction:
 - Once the model and best parameter is decided, accuracy is being checked
 - For classification problems, Confusion Metrics is also generated to find the TN, TP, FN and FP
+- For regression problems, root mean squared error can be determined to find the accuracy of the model, lesser the RMSE, better will be the result.
 - Depending on the scenario, further tuning can be done
 - Predict the values.
 #### Notes: train-test-split can be used before using cross_val_score, as it gives one set of testing data to final check on our model prediction before using unknown data for prediction.
