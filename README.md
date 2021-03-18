@@ -1,5 +1,5 @@
 # Learning Machine Learning
-This Repository contains Machine Learning concepts and recipes.
+This Repository contains Machine Learning competitions held on Kaggle
 ## Basic Steps to solve Machine Learning Problems:
 ML Basic Steps:
 - Data Pre-processing/Data Engineering:
