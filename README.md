@@ -38,6 +38,5 @@ ML Basic Steps:
 - This is a competition held on Kaggle on March 2021
 - Data set is from Kaggle Competition: Kaggle Tabular Playground Series Mar2021
 - Used Catboost (Categorical Boost) algorithm to solve Machine Learning problem
-- Used Grid Search CV to find the best parameter for Catboost
 - FInal Kaggle Leader board score is in top 40%.
 
